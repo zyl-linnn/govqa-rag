@@ -1,6 +1,6 @@
-# GovQA-RAG：政务垂域大模型问答系统
+# GovQA-RAG：zw垂域大模型问答系统
 
-> 基于 Qwen3-8B + QLoRA 三阶段微调的检索增强生成（RAG）政务问答系统
+> 基于 Qwen3-8B + QLoRA 三阶段微调的检索增强生成（RAG）zw政务问答系统
 
 ## 项目简介
 
